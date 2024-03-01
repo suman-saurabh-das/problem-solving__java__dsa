@@ -1,0 +1,12 @@
+[
+  {
+    "difficulty": "Easy",
+    "id": "leetcode-1",
+    "link": "https://leetcode.com/problems/two-sum/description/",
+    "name": "Two sum",
+    "serialNum": 1,
+    "solvedOn" : "2024-03-01",
+    "source": "leetcode",
+    "topics" : ["Array", "Hash Table"]
+  }
+]
