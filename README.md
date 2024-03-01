@@ -3,7 +3,11 @@
 ## Leetcode
 
 - [Arrays]()
-    - 001 [Two sum](https://leetcode.com/problems/two-sum/description/)
+    - 001 [Two sum](https://leetcode.com/problems/two-sum/description/) 
+
+
+- [Binary Search]() 
+    - 001 [Search insert position](https://leetcode.com/problems/search-insert-position/description/)
 
 ## Credits
 List of contributors:

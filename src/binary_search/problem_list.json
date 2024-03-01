@@ -1,0 +1,12 @@
+[
+  {
+    "difficulty": "Easy",
+    "id": "leetcode-35",
+    "link": "https://leetcode.com/problems/search-insert-position/description/",
+    "name": "Search insert position",
+    "serialNum": 1,
+    "solvedOn" : "2024-03-02",
+    "source": "leetcode",
+    "topics" : ["Array", "Binary Search"]
+  }
+]

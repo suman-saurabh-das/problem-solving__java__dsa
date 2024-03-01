@@ -23,7 +23,7 @@ public class P001_Two_sum {
         System.out.println("Elements are at index : " + Arrays.toString(twoSum(nums3, target3)));
     }
 
-    // Brute force approach - Using nested for loops - time complexity - O(n^2)
+    // SOLUTION USING NESTED FOR LOOPS (Brute force) - time complexity - O(n^2)
     public static int[] twoSum(int[] nums, int target) {
         for (int i = 0; i < nums.length; i++) {
             for (int j = 1; j < nums.length; j++) {
