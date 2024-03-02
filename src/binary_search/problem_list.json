@@ -5,8 +5,18 @@
     "link": "https://leetcode.com/problems/search-insert-position/description/",
     "name": "Search insert position",
     "serialNum": 1,
-    "solvedOn" : "2024-03-02",
+    "solvedOn" : "2024-03-01",
     "source": "leetcode",
     "topics" : ["Array", "Binary Search"]
+  },
+  {
+    "difficulty": "Easy",
+    "id": "leetcode-69",
+    "link": "https://leetcode.com/problems/sqrtx/description/",
+    "name": "Search insert position",
+    "serialNum": 2,
+    "solvedOn" : "2024-03-02",
+    "source": "leetcode",
+    "topics" : ["Math", "Binary Search"]
   }
 ]
