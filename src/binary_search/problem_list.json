@@ -17,6 +17,16 @@
     "serialNum": 2,
     "solvedOn" : "2024-03-02",
     "source": "leetcode",
-    "topics" : ["Math", "Binary Search"]
+    "topics" : ["Binary Search", "Math"]
+  },
+  {
+    "difficulty": "Easy",
+    "id": "leetcode-278",
+    "link": "https://leetcode.com/problems/first-bad-version/description/",
+    "name": "First bad version",
+    "serialNum": 3,
+    "solvedOn" : "2024-03-02",
+    "source": "leetcode",
+    "topics" : ["Binary Search", "Interactive"]
   }
 ]
