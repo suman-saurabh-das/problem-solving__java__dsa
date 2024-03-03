@@ -11,6 +11,10 @@
     - 002 [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
     - 003 [First bad version](https://leetcode.com/problems/first-bad-version/description/)
 
+
+- [Sorting]()
+  - 001 [Majority element](https://leetcode.com/problems/majority-element/description/)
+
 ## Credits
 List of contributors:
 - [Saurabh Das](dsumansaurabh@gmail.com)

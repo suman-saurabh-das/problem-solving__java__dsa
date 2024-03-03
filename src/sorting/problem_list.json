@@ -1,0 +1,12 @@
+[
+  {
+    "difficulty": "Easy",
+    "id": "leetcode-169",
+    "link": "https://leetcode.com/problems/majority-element/",
+    "name": "Majority element",
+    "serialNum": 1,
+    "solvedOn" : "2024-03-03",
+    "source": "leetcode",
+    "topics" : ["Array", "Counting", "Divide and Conquer", "Hash Table", "Sorting"]
+  }
+]

@@ -22,7 +22,7 @@ public class P003_First_bad_version {
         return num >= bad;
     }
 
-    // SOLUTION USING BINARY SEARCH
+    // SOLUTION USING BINARY SEARCH - time complexity - O(log(n))
     public static int firstBadVersion(int n) {
         // Applying binary search to find the first bad version
         int start = 0, end = n - 1;
