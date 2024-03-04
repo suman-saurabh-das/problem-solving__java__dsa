@@ -9,5 +9,16 @@
     "solvedOn" : "2024-03-02",
     "source": "leetcode",
     "topics" : ["Binary Search", "Math"]
+  },
+  {
+    "difficulty": "Easy",
+    "id": "leetcode-268",
+    "link": "https://leetcode.com/problems/missing-number/description/",
+    "name": "Search insert position",
+    "serialNum": 2,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-04",
+    "source": "leetcode",
+    "topics" : ["Array", "Binary Search", "Bit Manipulation", "Hash Table", "Math", "Sorting"]
   }
 ]
