@@ -14,6 +14,7 @@
 
 - [Sorting]()
   - 001 [Majority element](https://leetcode.com/problems/majority-element/description/)
+  - 002 [Contains duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 
 ## Credits
 List of contributors:
