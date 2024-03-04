@@ -5,6 +5,7 @@
     "link": "https://leetcode.com/problems/majority-element/description/",
     "name": "Majority element",
     "serialNum": 1,
+    "solutionAccepted": true,
     "solvedOn" : "2024-03-03",
     "source": "leetcode",
     "topics" : ["Array", "Counting", "Divide and Conquer", "Hash Table", "Sorting"]
@@ -15,6 +16,7 @@
     "link": "https://leetcode.com/problems/contains-duplicate/description/",
     "name": "Contains duplicate",
     "serialNum": 2,
+    "solutionAccepted": false,
     "solvedOn" : "2024-03-04",
     "source": "leetcode",
     "topics" : ["Array", "Hash Table", "Sorting"]

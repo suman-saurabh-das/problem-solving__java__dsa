@@ -25,7 +25,7 @@ public class P001_Majority_element {
         return nums[nums.length / 2];
     }
 
-    // SOLUTION USING SORTING - time complexity - O(n^2)
+    // SOLUTION USING BUBBLE SORT - time complexity - O(n^2)
     public static void bubbleSort(int[] nums) {
         // External loop will run n-1 times
         // It will count the number of passes

@@ -23,7 +23,7 @@ public class P001_Two_sum {
         System.out.println("Elements are at index : " + Arrays.toString(twoSum(nums3, target3)));
     }
 
-    // SOLUTION USING NESTED FOR LOOPS (Brute force) - time complexity - O(n^2)
+    // SOLUTION USING NESTED FOR LOOPS - time complexity - O(n^2)
     public static int[] twoSum(int[] nums, int target) {
         for (int i = 0; i < nums.length; i++) {
             for (int j = 1; j < nums.length; j++) {
@@ -36,6 +36,6 @@ public class P001_Two_sum {
         return new int[]{-1, -1};
     }
 
-    // Optimise using hash-map
-    // Optimise using sorting followed by binary-search
+    // Alternative solution using hash-map
+    // Alternative solution using sorting followed by binary-search
 }

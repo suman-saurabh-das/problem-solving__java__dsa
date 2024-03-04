@@ -3,6 +3,7 @@ package sorting.leetcode;
 /*
     217. Contains Duplicate
     https://leetcode.com/problems/contains-duplicate/description/
+    NOTE - This solution gives time limit exceeded error, need to optimize using other method
 
     Input: nums = [1,2,3,1]
     Output: true
@@ -34,8 +35,7 @@ public class P002_Contains_duplicate {
         return hasDuplicates;
     }
 
-    // SOLUTION USING BINARY SORT - time complexity - O(n^2)
-    // Gives time limit exceeded error, need to optimize using hashmaps
+    // SOLUTION USING BUBBLE SORT - time complexity - O(n^2)
     public static void bubbleSort(int[] arr) {
         boolean isSwapped;  // flag to break out of loop if no swap occurs
         // External for loop, will be used to count the number of iterations (passes)
