@@ -6,6 +6,7 @@
     - 001 [Two sum](https://leetcode.com/problems/two-sum/description/) 
     - 002 [Plus one](https://leetcode.com/problems/plus-one/description/)
     - 003 [Concatenation of array](https://leetcode.com/problems/concatenation-of-array/description/)
+    - 004 [Build array from permutation](https://leetcode.com/problems/build-array-from-permutation/description/)
 
 
 - [Binary Search]() 

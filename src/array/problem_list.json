@@ -31,5 +31,16 @@
     "solvedOn" : "2024-03-05",
     "source": "leetcode",
     "topics" : ["Array", "Simulation"]
+  },
+  {
+    "difficulty": "Easy",
+    "id": "leetcode-1920",
+    "link": "https://leetcode.com/problems/build-array-from-permutation/description/",
+    "name": "Build array from permutation",
+    "serialNum": 4,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-05",
+    "source": "leetcode",
+    "topics" : ["Array", "Simulation"]
   }
 ]
