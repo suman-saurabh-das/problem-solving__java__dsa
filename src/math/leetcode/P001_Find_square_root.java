@@ -19,6 +19,7 @@ public class P001_Find_square_root {
 
     // SOLUTION USING MATH - time complexity - O(n)
     public static int mySqrt(int x) {
+        // If number is 0 then its square root will also be 0
         if (x == 0) {
             return 0;
         }
@@ -27,8 +28,10 @@ public class P001_Find_square_root {
             result++;
         }
         if (result * result == x) {
+            // If x is a perfect square
             return (int) result;
         }
+        // If x is not a perfect square (return rounded off value)
         return (int) result - 1;
     }
 }

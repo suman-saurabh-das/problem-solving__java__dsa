@@ -9,5 +9,16 @@
     "solvedOn" : "2024-03-01",
     "source": "leetcode",
     "topics" : ["Array", "Hash Table"]
+  },
+  {
+    "difficulty": "Easy",
+    "id": "leetcode-66",
+    "link": "https://leetcode.com/problems/plus-one/description/",
+    "name": "Plus one",
+    "serialNum": 2,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-05",
+    "source": "leetcode",
+    "topics" : ["Array", "Math"]
   }
 ]

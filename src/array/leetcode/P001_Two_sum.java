@@ -1,4 +1,4 @@
-package arrays.leetcode;
+package array.leetcode;
 
 /*
     1. Two sum
@@ -25,6 +25,7 @@ public class P001_Two_sum {
 
     // SOLUTION USING NESTED FOR LOOPS - time complexity - O(n^2)
     public static int[] twoSum(int[] nums, int target) {
+        // We will add each element with every element and see if it is equal to target
         for (int i = 0; i < nums.length; i++) {
             for (int j = 1; j < nums.length; j++) {
                 // (j > i) is used to ensure that we do not use same element twice.

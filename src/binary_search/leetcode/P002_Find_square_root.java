@@ -24,7 +24,7 @@ public class P002_Find_square_root {
         if (x == 0 || x == 1) {
             return x;
         }
-        // Binary search in array to find the square root of x rounded off to nearest integer
+        // Binary search to find the square root of x rounded off to nearest integer
         long start = 1, end = x;
         while (start <= end) {
             long mid = start + (end - start) / 2;
