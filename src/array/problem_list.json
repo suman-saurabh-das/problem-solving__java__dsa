@@ -20,5 +20,16 @@
     "solvedOn" : "2024-03-05",
     "source": "leetcode",
     "topics" : ["Array", "Math"]
+  },
+  {
+    "difficulty": "Easy",
+    "id": "leetcode-1929",
+    "link": "https://leetcode.com/problems/concatenation-of-array/description/",
+    "name": "Concatenation of array",
+    "serialNum": 3,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-05",
+    "source": "leetcode",
+    "topics" : ["Array", "Simulation"]
   }
 ]
