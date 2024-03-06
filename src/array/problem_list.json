@@ -42,5 +42,16 @@
     "solvedOn" : "2024-03-05",
     "source": "leetcode",
     "topics" : ["Array", "Simulation"]
+  },
+  {
+    "difficulty": "Easy",
+    "id": "leetcode-1512",
+    "link": "https://leetcode.com/problems/number-of-good-pairs/",
+    "name": "Number of good pairs",
+    "serialNum": 5,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-06",
+    "source": "leetcode",
+    "topics" : ["Array", "Counting", "Hash Table", "Math"]
   }
 ]

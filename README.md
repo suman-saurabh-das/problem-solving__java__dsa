@@ -7,6 +7,7 @@
     - 002 [Plus one](https://leetcode.com/problems/plus-one/description/)
     - 003 [Concatenation of array](https://leetcode.com/problems/concatenation-of-array/description/)
     - 004 [Build array from permutation](https://leetcode.com/problems/build-array-from-permutation/description/)
+    - 005 [Number of good pairs](https://leetcode.com/problems/number-of-good-pairs/description/)
 
 
 - [Binary Search]() 
