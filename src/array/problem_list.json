@@ -53,5 +53,16 @@
     "solvedOn" : "2024-03-06",
     "source": "leetcode",
     "topics" : ["Array", "Counting", "Hash Table", "Math"]
+  },
+  {
+    "difficulty": "Medium",
+    "id": "leetcode-11",
+    "link": "https://leetcode.com/problems/container-with-most-water/description/",
+    "name": "Container with most water",
+    "serialNum": 6,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-06",
+    "source": "leetcode",
+    "topics" : ["Array", "Greedy", "Two Pointers"]
   }
 ]

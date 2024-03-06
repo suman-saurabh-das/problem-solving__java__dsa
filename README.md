@@ -8,6 +8,7 @@
     - 003 [Concatenation of array](https://leetcode.com/problems/concatenation-of-array/description/)
     - 004 [Build array from permutation](https://leetcode.com/problems/build-array-from-permutation/description/)
     - 005 [Number of good pairs](https://leetcode.com/problems/number-of-good-pairs/description/)
+    - 006 [Container with most water](https://leetcode.com/problems/container-with-most-water/description/)
 
 
 - [Binary Search]() 
