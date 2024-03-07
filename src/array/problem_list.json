@@ -64,5 +64,16 @@
     "solvedOn" : "2024-03-06",
     "source": "leetcode",
     "topics" : ["Array", "Greedy", "Two Pointers"]
+  },
+  {
+    "difficulty": "Medium",
+    "id": "leetcode-48",
+    "link": "https://leetcode.com/problems/rotate-image/description/",
+    "name": "Rotate image",
+    "serialNum": 7,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-07",
+    "source": "leetcode",
+    "topics" : ["Array", "Math", "Matrix"]
   }
 ]
