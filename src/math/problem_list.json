@@ -1,6 +1,7 @@
 [
   {
     "difficulty": "Easy",
+    "error": null,
     "id": "leetcode-69",
     "link": "https://leetcode.com/problems/sqrtx/description/",
     "name": "Search insert position",
@@ -12,6 +13,7 @@
   },
   {
     "difficulty": "Easy",
+    "error": null,
     "id": "leetcode-268",
     "link": "https://leetcode.com/problems/missing-number/description/",
     "name": "Search insert position",
@@ -23,6 +25,7 @@
   },
   {
     "difficulty": "Medium",
+    "error": null,
     "id": "leetcode-48",
     "link": "https://leetcode.com/problems/rotate-image/description/",
     "name": "Rotate image",

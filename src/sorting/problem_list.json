@@ -1,6 +1,7 @@
 [
   {
     "difficulty": "Easy",
+    "error": null,
     "id": "leetcode-169",
     "link": "https://leetcode.com/problems/majority-element/description/",
     "name": "Majority element",
@@ -12,12 +13,25 @@
   },
   {
     "difficulty": "Easy",
+    "error": "Time Limit Exceeded",
     "id": "leetcode-217",
     "link": "https://leetcode.com/problems/contains-duplicate/description/",
     "name": "Contains duplicate",
     "serialNum": 2,
     "solutionAccepted": false,
     "solvedOn" : "2024-03-04",
+    "source": "leetcode",
+    "topics" : ["Array", "Hash Table", "Sorting"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": "Time Limit Exceeded",
+    "id": "leetcode-1637",
+    "link": "https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/",
+    "name": "Widest vertical area between two points containing no points",
+    "serialNum": 3,
+    "solutionAccepted": false,
+    "solvedOn" : "2024-03-07",
     "source": "leetcode",
     "topics" : ["Array", "Hash Table", "Sorting"]
   }

@@ -1,6 +1,7 @@
 [
   {
     "difficulty": "Easy",
+    "error": null,
     "id": "leetcode-35",
     "link": "https://leetcode.com/problems/search-insert-position/description/",
     "name": "Search insert position",
@@ -12,6 +13,7 @@
   },
   {
     "difficulty": "Easy",
+    "error": null,
     "id": "leetcode-69",
     "link": "https://leetcode.com/problems/sqrtx/description/",
     "name": "Search insert position",
@@ -23,6 +25,7 @@
   },
   {
     "difficulty": "Easy",
+    "error": null,
     "id": "leetcode-278",
     "link": "https://leetcode.com/problems/first-bad-version/description/",
     "name": "First bad version",

@@ -29,6 +29,10 @@ public class P003_Rotate_image {
         // Reverse the elements in each row along center line
         transpose(matrix);
         reverse(matrix);
+
+        // If we want to rotate the array in place by 90degree in anti-clockwise direction,
+        // Reverse the elements in each row along center line
+        // Transpose the array
     }
 
     // Transpose

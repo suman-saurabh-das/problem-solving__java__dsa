@@ -1,6 +1,7 @@
 [
   {
     "difficulty": "Easy",
+    "error": null,
     "id": "leetcode-1",
     "link": "https://leetcode.com/problems/two-sum/description/",
     "name": "Two sum",
@@ -12,6 +13,7 @@
   },
   {
     "difficulty": "Easy",
+    "error": null,
     "id": "leetcode-66",
     "link": "https://leetcode.com/problems/plus-one/description/",
     "name": "Plus one",
@@ -23,6 +25,7 @@
   },
   {
     "difficulty": "Easy",
+    "error": null,
     "id": "leetcode-1929",
     "link": "https://leetcode.com/problems/concatenation-of-array/description/",
     "name": "Concatenation of array",
@@ -34,6 +37,7 @@
   },
   {
     "difficulty": "Easy",
+    "error": null,
     "id": "leetcode-1920",
     "link": "https://leetcode.com/problems/build-array-from-permutation/description/",
     "name": "Build array from permutation",
@@ -45,6 +49,7 @@
   },
   {
     "difficulty": "Easy",
+    "error": null,
     "id": "leetcode-1512",
     "link": "https://leetcode.com/problems/number-of-good-pairs/",
     "name": "Number of good pairs",
@@ -56,6 +61,7 @@
   },
   {
     "difficulty": "Medium",
+    "error": null,
     "id": "leetcode-11",
     "link": "https://leetcode.com/problems/container-with-most-water/description/",
     "name": "Container with most water",
@@ -67,6 +73,7 @@
   },
   {
     "difficulty": "Medium",
+    "error": null,
     "id": "leetcode-48",
     "link": "https://leetcode.com/problems/rotate-image/description/",
     "name": "Rotate image",

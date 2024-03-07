@@ -35,5 +35,5 @@ public class P005_Number_of_good_pairs {
         return goodPairCount;
     }
 
-    // Alternative solution using hash-map
+    // Optimise solution using hash-map
 }

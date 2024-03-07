@@ -21,6 +21,7 @@ public class P002_Contains_duplicate {
         System.out.println("Array has duplicates " + containsDuplicate(nums3));
     }
 
+    // SOLUTION USING BUBBLE SORT - time complexity - O(n^2)
     public static boolean containsDuplicate(int[] nums) {
         // Sorting the array
         bubbleSort(nums);
@@ -35,7 +36,7 @@ public class P002_Contains_duplicate {
         return hasDuplicates;
     }
 
-    // SOLUTION USING BUBBLE SORT - time complexity - O(n^2)
+    // Bubble sort
     public static void bubbleSort(int[] arr) {
         boolean isSwapped;  // flag to break out of loop if no swap occurs
         // External for loop, will be used to count the number of iterations (passes)

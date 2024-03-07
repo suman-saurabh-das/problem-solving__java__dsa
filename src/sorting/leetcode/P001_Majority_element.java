@@ -18,6 +18,7 @@ public class P001_Majority_element {
         System.out.println("Majority element is  : " + majorityElement(nums2));
     }
 
+    // SOLUTION USING BUBBLE SORT - time complexity - O(n^2)
     public static int majorityElement(int[] nums) {
         bubbleSort(nums);
         // Since element appears more than n/2 times,
@@ -25,7 +26,7 @@ public class P001_Majority_element {
         return nums[nums.length / 2];
     }
 
-    // SOLUTION USING BUBBLE SORT - time complexity - O(n^2)
+    // Bubble sort
     public static void bubbleSort(int[] nums) {
         // External loop will run n-1 times
         // It will count the number of passes

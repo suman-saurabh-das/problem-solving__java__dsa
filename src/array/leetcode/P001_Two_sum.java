@@ -37,6 +37,6 @@ public class P001_Two_sum {
         return new int[]{-1, -1};
     }
 
-    // Alternative solution using hash-map
+    // Optimise solution using hash-map
     // Alternative solution using sorting followed by binary-search
 }
