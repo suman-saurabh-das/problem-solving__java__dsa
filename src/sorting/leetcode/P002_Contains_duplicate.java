@@ -41,7 +41,7 @@ public class P002_Contains_duplicate {
         boolean isSwapped;  // flag to break out of loop if no swap occurs
         // External for loop, will be used to count the number of iterations (passes)
         // This loop will run (n-1) times
-        for (int i = 0; i < arr.length - 1; i++) {
+        for (int i = 0; i < arr.length; i++) {
             // Internal for loop, which will be used to compare current and previous element
             // and swap them if current element is smaller than previous element
             // And this loop will run (n-i) times

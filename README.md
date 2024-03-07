@@ -2,32 +2,48 @@
 
 ## Leetcode
 
-- [Arrays]()
-  - 001 [Two sum](https://leetcode.com/problems/two-sum/description/)
-  - 002 [Plus one](https://leetcode.com/problems/plus-one/description/)
-  - 003 [Concatenation of array](https://leetcode.com/problems/concatenation-of-array/description/)
-  - 004 [Build array from permutation](https://leetcode.com/problems/build-array-from-permutation/description/)
-  - 005 [Number of good pairs](https://leetcode.com/problems/number-of-good-pairs/description/)
-  - 006 [Container with most water](https://leetcode.com/problems/container-with-most-water/description/)
-  - 007 [Rotate image](https://leetcode.com/problems/rotate-image/description/)
+<style>
+  .header-links{
+    font-size: 14px;
+  }
+</style>
 
+<details>
+<summary><a class="header-links" href="">Arrays</a></summary>
 
-- [Binary Search]() 
-  - 001 [Search insert position](https://leetcode.com/problems/search-insert-position/description/)
-  - 002 [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
-  - 003 [First bad version](https://leetcode.com/problems/first-bad-version/description/)
+- 001 [Two sum](https://leetcode.com/problems/two-sum/description/)
+- 002 [Plus one](https://leetcode.com/problems/plus-one/description/)
+- 003 [Concatenation of array](https://leetcode.com/problems/concatenation-of-array/description/)
+- 004 [Build array from permutation](https://leetcode.com/problems/build-array-from-permutation/description/)
+- 005 [Number of good pairs](https://leetcode.com/problems/number-of-good-pairs/description/)
+- 006 [Container with most water](https://leetcode.com/problems/container-with-most-water/description/)
+- 007 [Rotate image](https://leetcode.com/problems/rotate-image/description/)
+- 008 [Count pairs whose sum is less than target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/)
+</details>
 
+<details>
+<summary><a  class="header-links" href="">Binary Search</a></summary>
 
-- [Math]()
-  - 001 [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
-  - 002 [Missing number](https://leetcode.com/problems/missing-number/description/)
-  - 003 [Rotate image](https://leetcode.com/problems/rotate-image/description/)
+- 001 [Search insert position](https://leetcode.com/problems/search-insert-position/description/)
+- 002 [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
+- 003 [First bad version](https://leetcode.com/problems/first-bad-version/description/)
+</details>
 
+<details>
+<summary><a class="header-links" href="">Math</a></summary>
 
-- [Sorting]()
-  - 001 [Majority element](https://leetcode.com/problems/majority-element/description/)
-  - 002 [Contains duplicate](https://leetcode.com/problems/contains-duplicate/description/)
-  - 003 [Widest vertical area between two points containing no points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/) 
+- 001 [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
+- 002 [Missing number](https://leetcode.com/problems/missing-number/description/)
+- 003 [Rotate image](https://leetcode.com/problems/rotate-image/description/)
+</details>
+
+<details>
+<summary><a class="header-links" href="">Sorting</a></summary>
+
+- 001 [Majority element](https://leetcode.com/problems/majority-element/description/)
+- 002 [Contains duplicate](https://leetcode.com/problems/contains-duplicate/description/)
+- 003 [Widest vertical area between two points containing no points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/)
+</details>
 
 ## Credits
 List of contributors:

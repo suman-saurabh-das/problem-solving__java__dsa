@@ -82,5 +82,17 @@
     "solvedOn" : "2024-03-07",
     "source": "leetcode",
     "topics" : ["Array", "Math", "Matrix"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-2824",
+    "link": "https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/",
+    "name": "Count pairs whose sum is less than target",
+    "serialNum": 8,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-07",
+    "source": "leetcode",
+    "topics" : ["Array", "Binary Search", "Sorting", "Two pointers"]
   }
 ]

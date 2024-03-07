@@ -41,7 +41,7 @@ public class P003_Widest_vertical_area_between_two_points_containing_no_points {
     // Bubble sort
     public static void bubbleSort(int[] arr) {
         boolean isSwapped;
-        for (int i = 0; i < arr.length - 1; i++) {
+        for (int i = 0; i < arr.length; i++) {
             isSwapped = false;
             for (int j = 1; j < arr.length - i; j++) {
                 // Swap if previous element is greater than current element
