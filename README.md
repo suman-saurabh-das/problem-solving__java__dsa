@@ -2,14 +2,8 @@
 
 ## Leetcode
 
-<style>
-  .header-links{
-    font-size: 14px;
-  }
-</style>
-
 <details>
-<summary><a class="header-links" href="">Arrays</a></summary>
+<summary><a href="https://github.com/suman-saurabh-das/problem-solving__java__dsa/tree/main/src/array">Arrays</a></summary>
 
 - 001 [Two sum](https://leetcode.com/problems/two-sum/description/)
 - 002 [Plus one](https://leetcode.com/problems/plus-one/description/)
@@ -22,15 +16,16 @@
 </details>
 
 <details>
-<summary><a  class="header-links" href="">Binary Search</a></summary>
+<summary><a href="https://github.com/suman-saurabh-das/problem-solving__java__dsa/tree/main/src/binary_search">Binary Search</a></summary>
 
 - 001 [Search insert position](https://leetcode.com/problems/search-insert-position/description/)
 - 002 [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
 - 003 [First bad version](https://leetcode.com/problems/first-bad-version/description/)
+- 004 [Guess number higher or lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
 </details>
 
 <details>
-<summary><a class="header-links" href="">Math</a></summary>
+<summary><a href="https://github.com/suman-saurabh-das/problem-solving__java__dsa/tree/main/src/math">Math</a></summary>
 
 - 001 [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
 - 002 [Missing number](https://leetcode.com/problems/missing-number/description/)
@@ -38,7 +33,7 @@
 </details>
 
 <details>
-<summary><a class="header-links" href="">Sorting</a></summary>
+<summary><a href="https://github.com/suman-saurabh-das/problem-solving__java__dsa/tree/main/src/sorting">Sorting</a></summary>
 
 - 001 [Majority element](https://leetcode.com/problems/majority-element/description/)
 - 002 [Contains duplicate](https://leetcode.com/problems/contains-duplicate/description/)

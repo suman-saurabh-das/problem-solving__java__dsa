@@ -13,13 +13,7 @@ package binary_search.leetcode;
 public class P003_First_bad_version {
     public static void main(String[] args) {
         // NOTE - This is an interactive problem hence it cannot be tested here fully
-        System.out.println(firstBadVersion(5));
-    }
-
-    // Internal method
-    public static boolean isBadVersion(int num) {
-        int bad = 4;
-        return num >= bad;
+        System.out.println("First bad version is : " + firstBadVersion(5));
     }
 
     // SOLUTION USING BINARY SEARCH - time complexity - O(log(n))
@@ -40,5 +34,11 @@ public class P003_First_bad_version {
         // At the end the search space will be reduced to the first bad version
         // Then start will point to first bad version.
         return start;
+    }
+
+    // Internal method
+    public static boolean isBadVersion(int num) {
+        int bad = 4;
+        return num >= bad;
     }
 }
