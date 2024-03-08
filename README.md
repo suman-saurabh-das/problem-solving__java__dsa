@@ -13,6 +13,7 @@
 - 006 [Container with most water](https://leetcode.com/problems/container-with-most-water/description/)
 - 007 [Rotate image](https://leetcode.com/problems/rotate-image/description/)
 - 008 [Count pairs whose sum is less than target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/)
+- 009 [Count negative numbers in a sorted matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 </details>
 
 <details>

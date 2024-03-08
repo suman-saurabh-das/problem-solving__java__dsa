@@ -94,5 +94,17 @@
     "solvedOn" : "2024-03-07",
     "source": "leetcode",
     "topics" : ["Array", "Binary Search", "Sorting", "Two pointers"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1351",
+    "link": "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/",
+    "name": "Count negative numbers in a sorted matrix",
+    "serialNum": 9,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-08",
+    "source": "leetcode",
+    "topics" : ["Array", "Binary Search", "Matrix"]
   }
 ]
