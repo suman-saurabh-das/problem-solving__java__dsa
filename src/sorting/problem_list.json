@@ -34,5 +34,17 @@
     "solvedOn" : "2024-03-07",
     "source": "leetcode",
     "topics" : ["Array", "Hash Table", "Sorting"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-2089",
+    "link": "https://leetcode.com/problems/find-target-indices-after-sorting-array/description/",
+    "name": "Find target indices after sorting array",
+    "serialNum": 4,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-08",
+    "source": "leetcode",
+    "topics" : ["Array", "Binary Search", "Sorting"]
   }
 ]
