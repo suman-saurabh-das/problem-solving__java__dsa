@@ -58,5 +58,17 @@
     "solvedOn" : "2024-03-09",
     "source": "leetcode",
     "topics" : ["Array", "Binary Search", "Bit Manipulation", "Hash Table", "Math", "Sorting"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-448",
+    "link": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/",
+    "name": "Find all numbers disappeared in an array",
+    "serialNum": 6,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-09",
+    "source": "leetcode",
+    "topics" : ["Array", "Hash Table", "Sorting"]
   }
 ]

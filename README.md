@@ -41,6 +41,7 @@
 - 003 [Widest vertical area between two points containing no points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/)
 - 004 [Find target indices after sorting array](https://leetcode.com/problems/find-target-indices-after-sorting-array/description/)
 - 005 [Missing number](https://leetcode.com/problems/missing-number/description/)
+- 006 [Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
 </details>
 
 ## Credits
