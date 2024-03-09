@@ -46,5 +46,17 @@
     "solvedOn" : "2024-03-08",
     "source": "leetcode",
     "topics" : ["Array", "Binary Search", "Sorting"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-268",
+    "link": "https://leetcode.com/problems/missing-number/description/",
+    "name": "Missing number",
+    "serialNum": 5,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-09",
+    "source": "leetcode",
+    "topics" : ["Array", "Binary Search", "Bit Manipulation", "Hash Table", "Math", "Sorting"]
   }
 ]

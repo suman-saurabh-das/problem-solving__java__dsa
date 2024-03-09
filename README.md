@@ -40,6 +40,7 @@
 - 002 [Contains duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 - 003 [Widest vertical area between two points containing no points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/)
 - 004 [Find target indices after sorting array](https://leetcode.com/problems/find-target-indices-after-sorting-array/description/)
+- 005 [Missing number](https://leetcode.com/problems/missing-number/description/)
 </details>
 
 ## Credits
