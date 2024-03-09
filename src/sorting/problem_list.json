@@ -70,5 +70,17 @@
     "solvedOn" : "2024-03-09",
     "source": "leetcode",
     "topics" : ["Array", "Hash Table", "Sorting"]
+  },
+  {
+    "difficulty": "Medium",
+    "error": null,
+    "id": "leetcode-287",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number/description/",
+    "name": "Find the duplicate number",
+    "serialNum": 7,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-09",
+    "source": "leetcode",
+    "topics" : ["Array", "Binary Search", "Bit Manipulation", "Sorting", "Two Pointers"]
   }
 ]
