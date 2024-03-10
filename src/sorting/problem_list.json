@@ -94,5 +94,17 @@
     "solvedOn" : "2024-03-10",
     "source": "leetcode",
     "topics" : ["Array", "Hash Table"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-645",
+    "link": "https://leetcode.com/problems/set-mismatch/description/",
+    "name": "Set mismatch",
+    "serialNum": 9,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-10",
+    "source": "leetcode",
+    "topics" : ["Array", "Bit Manipulation" ,"Hash Table", "Sorting"]
   }
 ]

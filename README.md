@@ -44,6 +44,7 @@
 - 006 [Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
 - 007 [Find the duplicate number](https://leetcode.com/problems/find-the-duplicate-number/)
 - 008 [Find all duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
+- 009 [Set mismatch](https://leetcode.com/problems/set-mismatch/description/)
 </details>
 
 ## Credits
