@@ -93,7 +93,7 @@
     "solutionAccepted": true,
     "solvedOn" : "2024-03-10",
     "source": "leetcode",
-    "topics" : ["Array", "Hash Table"]
+    "topics" : ["Array", "Hash Table", "Sorting"]
   },
   {
     "difficulty": "Easy",
@@ -106,5 +106,17 @@
     "solvedOn" : "2024-03-10",
     "source": "leetcode",
     "topics" : ["Array", "Bit Manipulation" ,"Hash Table", "Sorting"]
+  },
+  {
+    "difficulty": "Hard",
+    "error": null,
+    "id": "leetcode-41",
+    "link": "https://leetcode.com/problems/first-missing-positive/description/",
+    "name": "First missing positive",
+    "serialNum": 10,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-10",
+    "source": "leetcode",
+    "topics" : ["Array","Hash Table", "Sorting"]
   }
 ]

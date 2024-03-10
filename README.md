@@ -45,6 +45,7 @@
 - 007 [Find the duplicate number](https://leetcode.com/problems/find-the-duplicate-number/)
 - 008 [Find all duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
 - 009 [Set mismatch](https://leetcode.com/problems/set-mismatch/description/)
+- 010 [First missing positive](https://leetcode.com/problems/first-missing-positive/description/)
 </details>
 
 ## Credits

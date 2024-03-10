@@ -1,7 +1,7 @@
 package sorting.leetcode;
 
 /*
-    645. Set Mismatch
+    645. Set mismatch
     https://leetcode.com/problems/set-mismatch/
 
     Input: nums = [1,2,2,4]
