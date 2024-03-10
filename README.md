@@ -43,6 +43,7 @@
 - 005 [Missing number](https://leetcode.com/problems/missing-number/description/)
 - 006 [Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
 - 007 [Find the duplicate number](https://leetcode.com/problems/find-the-duplicate-number/)
+- 008 [Find all duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
 </details>
 
 ## Credits

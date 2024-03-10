@@ -82,5 +82,17 @@
     "solvedOn" : "2024-03-09",
     "source": "leetcode",
     "topics" : ["Array", "Binary Search", "Bit Manipulation", "Sorting", "Two Pointers"]
+  },
+  {
+    "difficulty": "Medium",
+    "error": null,
+    "id": "leetcode-442",
+    "link": "https://leetcode.com/problems/find-all-duplicates-in-an-array/description/",
+    "name": "Find all duplicates in an array",
+    "serialNum": 8,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-10",
+    "source": "leetcode",
+    "topics" : ["Array", "Hash Table"]
   }
 ]
