@@ -10,5 +10,17 @@
     "solvedOn" : "2024-03-11",
     "source": "leetcode",
     "topics" : ["String"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-2011",
+    "link": "https://leetcode.com/problems/defanging-an-ip-address/description/",
+    "name": "Final value of variable after performing operations",
+    "serialNum": 2,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-11",
+    "source": "leetcode",
+    "topics" : ["Array", "Simulation", "String"]
   }
 ]

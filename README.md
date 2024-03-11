@@ -52,6 +52,7 @@
 <summary><a href="">String</a></summary>
 
 - 001 [Defanging an IP address](https://leetcode.com/problems/defanging-an-ip-address/description/)
+- 002 [Final value of variable after performing operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/)
 </details>
 
 ## Credits
