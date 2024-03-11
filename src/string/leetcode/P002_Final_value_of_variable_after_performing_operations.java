@@ -21,7 +21,7 @@ public class P002_Final_value_of_variable_after_performing_operations {
         System.out.println("Final value of variable : " + finalValueAfterOperations(operations3));
     }
 
-    // SOLUTION USING WHILE LOOP - time complexity - O(n)
+    // SOLUTION USING LOOP - time complexity - O(n)
     public static int finalValueAfterOperations(String[] operations) {
         int value = 0;
         // Loop through array and check if the operation increments or decrements

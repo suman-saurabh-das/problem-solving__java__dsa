@@ -22,5 +22,17 @@
     "solvedOn" : "2024-03-11",
     "source": "leetcode",
     "topics" : ["Array", "Simulation", "String"]
+  },
+  {
+    "difficulty": "Medium",
+    "error": null,
+    "id": "leetcode-1689",
+    "link": "https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/description/",
+    "name": "Partitioning into minimum number of deci-binary numbers",
+    "serialNum": 3,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-11",
+    "source": "leetcode",
+    "topics" : ["Greedy", "String"]
   }
 ]

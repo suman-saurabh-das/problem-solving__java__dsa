@@ -23,7 +23,7 @@ public class P007_Rotate_image {
         printArray(num2);
     }
 
-    // SOLUTION USING NESTED FOR LOOP - time complexity - O(n^2)
+    // SOLUTION USING NESTED LOOPS - time complexity - O(n^2)
     public static void rotate(int[][] matrix) {
         // To rotate an array by 90 degrees, we can replace the index values
         // row will be replaced by col (r = c)

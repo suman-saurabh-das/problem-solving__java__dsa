@@ -23,7 +23,7 @@ public class P001_Two_sum {
         System.out.println("Elements are at index : " + Arrays.toString(twoSum(nums3, target3)));
     }
 
-    // SOLUTION USING NESTED FOR LOOPS - time complexity - O(n^2)
+    // SOLUTION USING NESTED LOOPS - time complexity - O(n^2)
     public static int[] twoSum(int[] nums, int target) {
         // We will add each element with every element and see if it is equal to target
         for (int i = 0; i < nums.length; i++) {

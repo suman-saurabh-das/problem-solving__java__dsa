@@ -47,7 +47,7 @@ public class P002_Plus_one {
         return newDigits;
     }
 
-    // SOLUTION 2 - USING LOOPS - time complexity - O(n + m)
+    // SOLUTION 2 - USING 2 LOOPS - time complexity - O(n + m)
     // (Will not work for numbers which are greater than what long variable can hold)
     public static int[] plusOne2(int[] digits) {
         // Convert array to number

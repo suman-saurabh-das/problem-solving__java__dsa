@@ -18,7 +18,7 @@ public class P009_Count_negative_numbers_in_a_sorted_matrix {
         System.out.println("Count of negative numbers : " + countNegatives(grid2));
     }
 
-    // SOLUTION USING NESTED FOR LOOP - time complexity - O(n^2)
+    // SOLUTION USING NESTED LOOPS - time complexity - O(n^2)
     public static int countNegatives(int[][] grid) {
         int countOfNegativeNumbers = 0;
         for (int i = 0; i < grid.length; i++) {

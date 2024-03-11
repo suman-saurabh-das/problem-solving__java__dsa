@@ -20,7 +20,7 @@ public class P005_Number_of_good_pairs {
         System.out.println("Number of good pairs : " + numIdenticalPairs(nums3));
     }
 
-    // SOLUTION USING NESTED FOR LOOPS - time complexity - O(n^2)
+    // SOLUTION USING NESTED LOOPS - time complexity - O(n^2)
     public static int numIdenticalPairs(int[] nums) {
         int goodPairCount = 0;
         for (int i = 0; i < nums.length; i++) {

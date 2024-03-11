@@ -22,7 +22,7 @@ public class P008_Count_pairs_whose_sum_is_less_than_target {
         System.out.println("Number of pairs : " + countPairs(nums2, target2));
     }
 
-    // SOLUTION USING NESTED FOR LOOP - time complexity - O(n^2)
+    // SOLUTION USING NESTED LOOPS - time complexity - O(n^2)
     public static int countPairs(ArrayList<Integer> nums, int target) {
         int numberOfPairs = 0;
         // Using nested for loops
