@@ -1,0 +1,14 @@
+[
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1108",
+    "link": "https://leetcode.com/problems/defanging-an-ip-address/description/",
+    "name": "Defanging an IP address",
+    "serialNum": 1,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-11",
+    "source": "leetcode",
+    "topics" : ["String"]
+  }
+]

@@ -48,6 +48,12 @@
 - 010 [First missing positive](https://leetcode.com/problems/first-missing-positive/description/)
 </details>
 
+<details>
+<summary><a href="">String</a></summary>
+
+- 001 [Defanging an IP address](https://leetcode.com/problems/defanging-an-ip-address/description/)
+</details>
+
 ## Credits
 List of contributors:
 - [Saurabh Das](dsumansaurabh@gmail.com)
