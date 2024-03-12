@@ -56,6 +56,7 @@
 - 003 [Partitioning into minimum number of deci-binary numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/description/)
 - 004 [Jewels and stones](https://leetcode.com/problems/jewels-and-stones/description/)
 - 005 [Find words containing character](https://leetcode.com/problems/find-words-containing-character/description/)
+- 006 [Goal parser interpretation](https://leetcode.com/problems/goal-parser-interpretation/description/)
 </details>
 
 ## Credits

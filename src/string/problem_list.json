@@ -58,5 +58,17 @@
     "solvedOn" : "2024-03-12",
     "source": "leetcode",
     "topics" : ["Array", "String"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1678",
+    "link": "https://leetcode.com/problems/goal-parser-interpretation/description/",
+    "name": "Goal parser interpretation",
+    "serialNum": 6,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-12",
+    "source": "leetcode",
+    "topics" : ["String"]
   }
 ]
