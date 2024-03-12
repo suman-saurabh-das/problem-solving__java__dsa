@@ -34,5 +34,17 @@
     "solvedOn" : "2024-03-11",
     "source": "leetcode",
     "topics" : ["Greedy", "String"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-771",
+    "link": "https://leetcode.com/problems/jewels-and-stones/description/",
+    "name": "Jewels and stones",
+    "serialNum": 4,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-12",
+    "source": "leetcode",
+    "topics" : ["Hash Table", "String"]
   }
 ]

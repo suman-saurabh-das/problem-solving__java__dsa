@@ -23,9 +23,10 @@ public class P001_Defanging_an_ip_address {
     public static String defangIPaddr(String address) {
         int i = 0;
         StringBuilder newAddress = new StringBuilder();
-        // Loop through the string find all occurances of . and replace them with [.]
+        // Loop through the string find all occurrences of . and replace them with [.]
         while (i < address.length()) {
-            // NOTE - string.charAt(index) method returns a charcter, so we compare it using == and not .equals()
+            // NOTE - string.charAt(index) method returns a character,
+            // so we compare it using == and not .equals()
             if (address.charAt(i) == '.') {
                 newAddress.append("[.]");
             } else {
