@@ -42,7 +42,7 @@ public class P001_Defanging_an_ip_address {
     public static String defangIPaddr2(String address) {
         int i = 0;
         String newAddress = "";
-        // Loop through the string find all occurances of . and replace them with [.]
+        // Loop through the string find all occurrences of . and replace them with [.]
         while (i < address.length()) {
             if (address.charAt(i) == '.') {
                 newAddress = newAddress + "[.]";

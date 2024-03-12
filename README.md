@@ -55,6 +55,7 @@
 - 002 [Final value of variable after performing operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/)
 - 003 [Partitioning into minimum number of deci-binary numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/description/)
 - 004 [Jewels and stones](https://leetcode.com/problems/jewels-and-stones/description/)
+- 005 [Find words containing character](https://leetcode.com/problems/find-words-containing-character/description/)
 </details>
 
 ## Credits

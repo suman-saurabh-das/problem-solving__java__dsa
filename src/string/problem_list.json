@@ -46,5 +46,17 @@
     "solvedOn" : "2024-03-12",
     "source": "leetcode",
     "topics" : ["Hash Table", "String"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-2942",
+    "link": "https://leetcode.com/problems/find-words-containing-character/description/",
+    "name": "Find words containing character",
+    "serialNum": 5,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-12",
+    "source": "leetcode",
+    "topics" : ["Array", "String"]
   }
 ]
