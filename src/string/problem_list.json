@@ -82,5 +82,17 @@
     "solvedOn" : "2024-03-13",
     "source": "leetcode",
     "topics" : ["Dynamic Programming", "String"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-2114",
+    "link": "https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/",
+    "name": "Maximum number of words found in sentences",
+    "serialNum": 8,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-13",
+    "source": "leetcode",
+    "topics" : ["Array", "String"]
   }
 ]

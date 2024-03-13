@@ -20,6 +20,7 @@ public class P007_Longest_palindromic_substring {
     }
 
     // SOLUTION USING NESTED LOOPS - time complexity - O(n^3)
+    // Here time complexity is O(n^3) because we are using 2 while loops for finding each and every possible pair of substrings and 1 while loop to check of current substring is a palindrome
     public static String longestPalindrome(String s) {
         // Break the given string into substrings of different lengths (all unique possibilities)
         // e.g. babad -> 1 substring of max length 5

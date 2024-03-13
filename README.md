@@ -58,6 +58,7 @@
 - 005 [Find words containing character](https://leetcode.com/problems/find-words-containing-character/description/)
 - 006 [Goal parser interpretation](https://leetcode.com/problems/goal-parser-interpretation/description/)
 - 007 [Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
+- 008 [Maximum number of words found in sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/)
 </details>
 
 ## Credits
