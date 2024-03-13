@@ -94,5 +94,17 @@
     "solvedOn" : "2024-03-13",
     "source": "leetcode",
     "topics" : ["Array", "String"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1221",
+    "link": "https://leetcode.com/problems/split-a-string-in-balanced-strings/description/",
+    "name": "Split a string in balanced strings",
+    "serialNum": 9,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-13",
+    "source": "leetcode",
+    "topics" : ["Counting", "Greedy", "String"]
   }
 ]

@@ -59,6 +59,7 @@
 - 006 [Goal parser interpretation](https://leetcode.com/problems/goal-parser-interpretation/description/)
 - 007 [Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 - 008 [Maximum number of words found in sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/)
+- 009 [Split a string in balanced strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/description/)
 </details>
 
 ## Credits
