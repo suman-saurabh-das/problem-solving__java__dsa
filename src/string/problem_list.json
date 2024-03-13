@@ -70,5 +70,17 @@
     "solvedOn" : "2024-03-12",
     "source": "leetcode",
     "topics" : ["String"]
+  },
+  {
+    "difficulty": "Medium",
+    "error": null,
+    "id": "leetcode-5",
+    "link": "https://leetcode.com/problems/longest-palindromic-substring/description/",
+    "name": "Longest palindromic substring",
+    "serialNum": 7,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-13",
+    "source": "leetcode",
+    "topics" : ["Dynamic Programming", "String"]
   }
 ]
