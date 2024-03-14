@@ -3,7 +3,7 @@ package sorting.leetcode;
 /*
     217. Contains Duplicate
     https://leetcode.com/problems/contains-duplicate/description/
-    NOTE - This solution gives time limit exceeded error, need to optimize using other method
+    NOTE - This solution gives time limit exceeded error, need to optimize using other method.
 
     Input: nums = [1,2,3,1]
     Output: true
@@ -59,6 +59,4 @@ public class P002_Contains_duplicate {
             }
         }
     }
-
-    // Optimise using hash-map
 }

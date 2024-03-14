@@ -3,7 +3,7 @@ package sorting.leetcode;
 /*
     1637. Widest vertical area between two points containing no points
     https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/
-    NOTE - This solution gives time limit exceeded error, need to optimize using other method
+    NOTE - This solution gives time limit exceeded error, need to optimize using other method.
 
     Input: points = [[8,7],[9,9],[7,4],[9,7]]
     Output: 1

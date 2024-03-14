@@ -34,5 +34,17 @@
     "solvedOn" : "2024-03-07",
     "source": "leetcode",
     "topics" : ["Array", "Math", "Matrix"]
+  },
+  {
+  "difficulty": "Easy",
+  "error": null,
+  "id": "leetcode-367",
+  "link": "https://leetcode.com/problems/guess-number-higher-or-lower/description/",
+  "name": "Valid perfect square",
+  "serialNum": 4,
+  "solutionAccepted": false,
+  "solvedOn" : "2024-03-14",
+  "source": "leetcode",
+  "topics" : ["Binary Search", "Math"]
   }
 ]
