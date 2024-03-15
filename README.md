@@ -23,7 +23,8 @@
 - 002 [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
 - 003 [First bad version](https://leetcode.com/problems/first-bad-version/description/)
 - 004 [Guess number higher or lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
-- 005 [Valid perfect square](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
+- 005 [Valid perfect square](https://leetcode.com/problems/valid-perfect-square/description/)
+- 006 [Arranging coins](https://leetcode.com/problems/arranging-coins/description/)
 </details>
 
 <details>
@@ -32,7 +33,8 @@
 - 001 [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
 - 002 [Missing number](https://leetcode.com/problems/missing-number/description/)
 - 003 [Rotate image](https://leetcode.com/problems/rotate-image/description/)
-- 004 [Valid perfect square](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
+- 004 [Valid perfect square](https://leetcode.com/problems/valid-perfect-square/description/)
+- 005 [Arranging coins](https://leetcode.com/problems/arranging-coins/description/)
 </details>
 
 <details>
