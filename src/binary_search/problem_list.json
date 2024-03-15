@@ -70,5 +70,17 @@
     "solvedOn" : "2024-03-14",
     "source": "leetcode",
     "topics" : ["Binary Search", "Math"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-704",
+    "link": "https://leetcode.com/problems/binary-search/description/",
+    "name": "Binary search",
+    "serialNum": 7,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-15",
+    "source": "leetcode",
+    "topics" : ["Array", "Binary Search"]
   }
 ]

@@ -25,6 +25,7 @@
 - 004 [Guess number higher or lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)
 - 005 [Valid perfect square](https://leetcode.com/problems/valid-perfect-square/description/)
 - 006 [Arranging coins](https://leetcode.com/problems/arranging-coins/description/)
+- 007 [Binary search](https://leetcode.com/problems/binary-search/description/)
 </details>
 
 <details>
