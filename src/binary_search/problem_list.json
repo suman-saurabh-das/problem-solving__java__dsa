@@ -82,5 +82,17 @@
     "solvedOn" : "2024-03-15",
     "source": "leetcode",
     "topics" : ["Array", "Binary Search"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1346",
+    "link": "https://leetcode.com/problems/check-if-n-and-its-double-exist/",
+    "name": "Check if n and its double exist",
+    "serialNum": 8,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-16",
+    "source": "leetcode",
+    "topics" : ["Array", "Binary Search", "Hash Table", "Sorting", "Two Pointer"]
   }
 ]

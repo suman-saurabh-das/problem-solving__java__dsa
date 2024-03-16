@@ -14,6 +14,7 @@
 - 007 [Rotate image](https://leetcode.com/problems/rotate-image/description/)
 - 008 [Count pairs whose sum is less than target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/)
 - 009 [Count negative numbers in a sorted matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
+- 010 [Check if n and its double exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/)
 </details>
 
 <details>
@@ -26,6 +27,7 @@
 - 005 [Valid perfect square](https://leetcode.com/problems/valid-perfect-square/description/)
 - 006 [Arranging coins](https://leetcode.com/problems/arranging-coins/description/)
 - 007 [Binary search](https://leetcode.com/problems/binary-search/description/)
+- 008 [Check if n and its double exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/)
 </details>
 
 <details>
