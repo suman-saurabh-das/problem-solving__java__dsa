@@ -15,6 +15,7 @@
 - 008 [Count pairs whose sum is less than target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/)
 - 009 [Count negative numbers in a sorted matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 - 010 [Check if n and its double exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/)
+- 011 [Maximum count of positive integer and negative integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/)
 </details>
 
 <details>
@@ -28,6 +29,7 @@
 - 006 [Arranging coins](https://leetcode.com/problems/arranging-coins/description/)
 - 007 [Binary search](https://leetcode.com/problems/binary-search/description/)
 - 008 [Check if n and its double exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/)
+- 009 [Maximum count of positive integer and negative integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/)
 </details>
 
 <details>
