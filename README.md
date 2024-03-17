@@ -55,6 +55,7 @@
 - 008 [Find all duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
 - 009 [Set mismatch](https://leetcode.com/problems/set-mismatch/description/)
 - 010 [First missing positive](https://leetcode.com/problems/first-missing-positive/description/)
+- 011 [Merge sorted array](https://leetcode.com/problems/merge-sorted-array/description/)
 </details>
 
 <details>

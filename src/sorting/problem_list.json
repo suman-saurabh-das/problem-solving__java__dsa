@@ -118,5 +118,17 @@
     "solvedOn" : "2024-03-10",
     "source": "leetcode",
     "topics" : ["Array","Hash Table", "Sorting"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-88",
+    "link": "https://leetcode.com/problems/merge-sorted-array/description/",
+    "name": "Merge sorted array",
+    "serialNum": 11,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-17",
+    "source": "leetcode",
+    "topics" : ["Array", "Sorting", "Two Pointer"]
   }
 ]
