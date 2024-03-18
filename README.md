@@ -17,6 +17,7 @@
 - 010 [Check if n and its double exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/description/)
 - 011 [Maximum count of positive integer and negative integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/)
 - 012 [Shuffle the array](https://leetcode.com/problems/shuffle-the-array/description/)
+- 013 [Find the original array of prefix xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/)
 </details>
 
 <details>
