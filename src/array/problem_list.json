@@ -130,5 +130,17 @@
     "solvedOn" : "2024-03-16",
     "source": "leetcode",
     "topics" : ["Array", "Binary Search", "Counting"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1470",
+    "link": "https://leetcode.com/problems/shuffle-the-array/description/",
+    "name": "Shuffle the array",
+    "serialNum": 12,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-18",
+    "source": "leetcode",
+    "topics" : ["Array"]
   }
 ]
