@@ -147,12 +147,24 @@
     "difficulty": "Medium",
     "error": null,
     "id": "leetcode-2433",
-    "link": "https://leetcode.com/problems/find-the-original-array-of-prefix-xor/",
+    "link": "https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/",
     "name": "Find the original array of prefix xor",
     "serialNum": 13,
     "solutionAccepted": true,
     "solvedOn" : "2024-03-18",
     "source": "leetcode",
     "topics" : ["Array", "Bit Manipulation"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-2798",
+    "link": "https://leetcode.com/problems/number-of-employees-who-met-the-target/description/",
+    "name": "Number of employees who met the target",
+    "serialNum": 14,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-19",
+    "source": "leetcode",
+    "topics" : ["Array"]
   }
 ]

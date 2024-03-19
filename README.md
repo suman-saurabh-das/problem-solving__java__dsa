@@ -18,6 +18,7 @@
 - 011 [Maximum count of positive integer and negative integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/)
 - 012 [Shuffle the array](https://leetcode.com/problems/shuffle-the-array/description/)
 - 013 [Find the original array of prefix xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/)
+- 014 [Number of employees who met the target](https://leetcode.com/problems/number-of-employees-who-met-the-target/description/)
 </details>
 
 <details>
