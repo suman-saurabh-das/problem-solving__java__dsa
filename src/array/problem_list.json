@@ -166,5 +166,17 @@
     "solvedOn" : "2024-03-19",
     "source": "leetcode",
     "topics" : ["Array"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1431",
+    "link": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/",
+    "name": "Kids with the greatest number of candies",
+    "serialNum": 14,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-19",
+    "source": "leetcode",
+    "topics" : ["Array"]
   }
 ]
