@@ -23,6 +23,7 @@ public class P010_String_to_integer_atoi {
         System.out.println("Integer is : " + myAtoi(s6));
     }
 
+    // SOLUTION USING LOOP - time complexity - O(n)
     public static int myAtoi(String s) {
         boolean isNegative = false;
         // Removing the leading white space.

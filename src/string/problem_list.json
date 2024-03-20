@@ -118,5 +118,17 @@
     "solvedOn" : "2024-03-20",
     "source": "leetcode",
     "topics" : ["String"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-14",
+    "link": "https://leetcode.com/problems/longest-common-prefix/description/",
+    "name": "Longest common prefix",
+    "serialNum": 11,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-20",
+    "source": "leetcode",
+    "topics" : ["String", "Trie"]
   }
 ]
