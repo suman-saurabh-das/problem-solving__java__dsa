@@ -106,5 +106,17 @@
     "solvedOn" : "2024-03-13",
     "source": "leetcode",
     "topics" : ["Counting", "Greedy", "String"]
+  },
+  {
+    "difficulty": "Medium",
+    "error": null,
+    "id": "leetcode-8",
+    "link": "https://leetcode.com/problems/string-to-integer-atoi/description/",
+    "name": "String to integer (atoi)",
+    "serialNum": 10,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-20",
+    "source": "leetcode",
+    "topics" : ["String"]
   }
 ]
