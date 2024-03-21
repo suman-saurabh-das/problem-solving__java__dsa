@@ -77,6 +77,7 @@
 - 010 [String to integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)
 - 011 [Longest common prefix](https://leetcode.com/problems/longest-common-prefix/description/)
 - 012 [Find the index of the first occurrence in a string](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
+- 013 [Length of last word](https://leetcode.com/problems/length-of-last-word/description/)
 </details>
 
 ## Credits

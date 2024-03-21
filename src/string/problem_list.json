@@ -142,5 +142,17 @@
     "solvedOn" : "2024-03-21",
     "source": "leetcode",
     "topics" : ["String", "String Matching", "Two Pointer"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-58",
+    "link": "https://leetcode.com/problems/length-of-last-word/description/",
+    "name": "Length of last word",
+    "serialNum": 13,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-21",
+    "source": "leetcode",
+    "topics" : ["String"]
   }
 ]
