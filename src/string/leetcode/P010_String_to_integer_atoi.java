@@ -43,10 +43,11 @@ public class P010_String_to_integer_atoi {
         long num = 0;
         // Looping until length is less than given string length.
         while (length < s.length()) {
+            // If character is other than number then break out of loop
             if (s.charAt(length) < '0' || s.charAt(length) > '9') {
                 break;
             }
-            // Converting string to number (taking one character at a time.
+            // Converting string to number, taking one character at a time.
             num = (s.charAt(length) - '0') + num * 10;
             length++;
             // If the num is more than what int can hold, then we clamp it.

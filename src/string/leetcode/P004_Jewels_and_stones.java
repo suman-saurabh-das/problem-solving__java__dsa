@@ -18,7 +18,7 @@ public class P004_Jewels_and_stones {
     }
 
     // SOLUTION USING LOOP - time complexity - O(n^2)
-    // Here time complexity is O(n^2) because indexOf() internally uses a for loop.
+    // Here time complexity is O(n^2) because indexOf() internally uses a loop.
     public static int numJewelsInStones(String jewels, String stones) {
         // Loop over every character in stones string and try to find the character in string jewels
         int numOfJewels = 0;

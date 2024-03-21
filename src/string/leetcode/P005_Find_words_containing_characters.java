@@ -25,7 +25,7 @@ public class P005_Find_words_containing_characters {
     }
 
     // SOLUTION USING LOOP - time complexity - O(n^2)
-    // Here time complexity is O(n^2) because indexOf() internally uses a for loop.
+    // Here time complexity is O(n^2) because indexOf() internally uses a loop.
     public static ArrayList<Integer> findWordsContaining(String[] words, char x) {
         // Create an ArrayList to store the indexes.
         ArrayList<Integer> listOfWords = new ArrayList<>();

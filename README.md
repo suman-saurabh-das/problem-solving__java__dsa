@@ -76,6 +76,7 @@
 - 009 [Split a string in balanced strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/description/)
 - 010 [String to integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)
 - 011 [Longest common prefix](https://leetcode.com/problems/longest-common-prefix/description/)
+- 012 [Find the index of the first occurrence in a string](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
 </details>
 
 ## Credits
