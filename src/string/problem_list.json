@@ -154,5 +154,17 @@
     "solvedOn" : "2024-03-21",
     "source": "leetcode",
     "topics" : ["String"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-125",
+    "link": "https://leetcode.com/problems/valid-palindrome/description/",
+    "name": "Valid palindrome",
+    "serialNum": 14,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-22",
+    "source": "leetcode",
+    "topics" : ["String", "Two Pointers"]
   }
 ]
