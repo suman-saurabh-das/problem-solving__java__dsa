@@ -60,6 +60,7 @@
 - 009 [Set mismatch](https://leetcode.com/problems/set-mismatch/description/)
 - 010 [First missing positive](https://leetcode.com/problems/first-missing-positive/description/)
 - 011 [Merge sorted array](https://leetcode.com/problems/merge-sorted-array/description/)
+- 012 [Valid anagram](https://leetcode.com/problems/valid-anagram/description/)
 </details>
 
 <details>
