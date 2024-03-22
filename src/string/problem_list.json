@@ -166,5 +166,17 @@
     "solvedOn" : "2024-03-22",
     "source": "leetcode",
     "topics" : ["String", "Two Pointers"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-344",
+    "link": "https://leetcode.com/problems/reverse-string/description/",
+    "name": "Reverse string",
+    "serialNum": 15,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-03-22",
+    "source": "leetcode",
+    "topics" : ["String", "Two Pointers"]
   }
 ]
